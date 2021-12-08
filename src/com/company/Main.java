@@ -17,4 +17,6 @@ public class Main {
         faktoriyel = faktoriyel * i;
     }
         System.out.println(sayi + "!= " + faktoriyel);
+        System.out.println(sayi + "!= " + faktoriyel);
+        System.out.println(sayi + "!= " + faktoriyel);
 }}
