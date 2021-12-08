@@ -18,5 +18,5 @@ public class Main {
     }
         System.out.println(sayi + "!= " + faktoriyel);
         System.out.println(sayi + "!= " + faktoriyel);
-        System.out.println(sayi + "!= " + faktoriyel);
+
 }}
